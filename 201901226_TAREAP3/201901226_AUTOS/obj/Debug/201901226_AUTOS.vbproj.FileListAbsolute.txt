@@ -1,0 +1,13 @@
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\bin\Debug\201901226_AUTOS.exe.config
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\bin\Debug\201901226_AUTOS.exe
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\bin\Debug\201901226_AUTOS.pdb
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\bin\Debug\201901226_AUTOS.xml
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.vbproj.AssemblyReference.cache
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\_201901226_AUTOS.Form1.resources
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\_201901226_AUTOS.Resources.resources
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.vbproj.GenerateResource.cache
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.vbproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.exe
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.xml
+C:\Users\faust\Desktop\201901226_TAREAP3\201901226_AUTOS\obj\Debug\201901226_AUTOS.pdb
